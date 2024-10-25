@@ -1,3 +1,7 @@
+**PEMBUATAN SISTEM MONITORING PENYIARAN BERITA PADA BIDANG INFORMASI DAN KOMUNIKASI PUBLIK BERBASIS WEBSITE MENGGUNAKAN METODE RAPID APPLICATION DEVELOPMENT**
+
 Nama    : Rachel Abigail Matano 
 
-NIM     : 19210050 Teknik Informatika, Fakultas Teknik, Universitas Negeri Manado
+NIM     : 19210050 
+
+Teknik Informatika, Fakultas Teknik, Universitas Negeri Manado
